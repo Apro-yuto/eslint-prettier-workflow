@@ -2,12 +2,12 @@ name: Check the source code
 on:
   push:
     branches:
-      - master
+      - main
       - develop
       - 'feature/**'
   pull_request:
     branches:
-      - master
+      - main
       - develop
       - 'feature/**'
 jobs:
