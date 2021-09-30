@@ -1,1 +1,1 @@
-const testArr = new Array()
+const testArr = new Array();
